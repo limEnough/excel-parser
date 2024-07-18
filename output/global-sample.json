@@ -1,0 +1,104 @@
+[
+  {
+    "NATION": "KO",
+    "CODE.TEST.01": "1. 전신환 매도율 : 접수일의 지정은행 최초고시 전신환 매도율이며, 최초고시 이후 한국시간 기준 오전 9시 20분 이후부터 적용 (*시스템 적용시간 차이로 약 + 5~10분 차이 발생 가능)",
+    "CODE.TEST.02": "예) 11/23일 오전 9시 20분 이전 결제는 11/22일 고시환율이며, 오전 9시 20분 이후 결제된 건부터 11/23일 고시 환율로 적용됩니다. 주말은 전 영업일 기준의 고시환율로 적용 됩니다.",
+    "CODE.TEST.03": "(광고) 한패스 회원만을 위한 특별한 혜택!\n\n해외송금 무료쿠폰이 있어요! 만료일까지 꼭 무료 혜텍 받아보세요!\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "EN",
+    "CODE.TEST.01": "1. Foreign Exchange Selling Rate: The designated bank's initial announced foreign exchange selling rate on the submission date applies, effective from 9:20 AM Korean time after the initial announcement. (Note: Due to system application time, a time difference of approximately +5 to 10 minutes may occur.)",
+    "CODE.TEST.02": "For instance, transactions settled before 9:20 AM on November 23rd will use the exchange rate announced on November 22nd, while transactions settled after 9:20 AM on November 23rd will use the exchange rate announced on November 23rd. Weekend rates are based on the last business day's announced exchange rates.",
+    "CODE.TEST.03": "(Ads) Special benefit for only Hanpass Users! \n\nYou have a FREE COUPON for international money transfer! Make sure to receive the benefit for free before the end of the expiration date! \n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "KM",
+    "CODE.TEST.01": "1. តម្លៃអត្រាប្ដូរប្រាក់លក់ចេញ៖ នេះជាអត្រាប្ដូរប្រាក់លក់ចេញដើមរបស់ធនាគារដែលបានកំណត់នៃកាលបរិច្ឆេទ ហើយត្រូវបានអនុវត្តបន្ទាប់ពីម៉ោង 9:20នាទីព្រឹក ម៉ោងនៅកូរ៉េ ទ(*អាស្រ័យលើពេលវេលាដំណើរការប្រព័ន្ធ អាចនឹងមានការប្រែប្រូលចន្លោះ 5~10នាទី)",
+    "CODE.TEST.02": "ឧ). ការទូទាត់ប្រាក់មុនថ្ងៃទី 23​ ខែ11​​ ម៉ោង 9:20នាទី ព្រឹក​ នឹងត្រូងទូទាត់ទៅតាមអត្រាប្ដូរប្រាក់ដែលបានប្រកាសនៅថ្ងៃទី22​ ខែ 11​ ហើយការទូទាត់ក្រោយម៉ោង​9:20នាទីព្រឹកឡើយទៅ និងត្រូវទូទាត់តាមអត្រាប្ដូរប្រាក់ថ្ងៃទី23 ខែ11។ សម្រាប់ថ្ងៃចុងសប្ដាហ៍ អត្រាប្ដូរប្រាក់នឹងត្រូវគិតតាមថ្ងៃធ្វើការពីមុន។ \n\n\n\n\n\n",
+    "CODE.TEST.03": "(광고) អត្ថប្រយោជន៍ពិសេសសម្រាប់សមាជិក Hanpass!\n\nមានគូប៉ុងសម្រាប់វេប្រាក់ស្រាប់! សូមប្រើប្រាស់គូប៉ុងមុនថ្ងៃផុតកំណត់!\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "NE",
+    "CODE.TEST.01": "1. विदेशी विनिमय बिक्री दर: तोकिएको बैंकको प्रारम्भिक घोषणा गरिएको मितिमा विदेशी विनिमय बिक्री दर लागू हुन्छ, प्रारम्भिक घोषणा पछि कोरियाली समय ९:२० बिहानीबाट लागू हुन्छ। (नोट: प्रणाली आवेदन समयको कारणले गर्दा, लगभग +५  देखि १०  मिनेटको समय फरक हुन सक्छ।) ",
+    "CODE.TEST.02": "उदाहरणका लागि, नोभेम्बर २३  मा बिहान ९:२०  अघि सेटल भएका लेनदेनहरूले नोभेम्बर २२  मा घोषणा गरेको विनिमय दर प्रयोग गर्नेछ, जबकि नोभेम्बर २३  मा बिहान ९ :२० पछि सेटल गरिएका कारोबारहरूले नोभेम्बर २३  मा घोषणा गरिएको विनिमय दर प्रयोग गर्नेछ। सप्ताहन्त दरहरू अन्तिम व्यापार दिनको घोषणा गरिएको विनिमय दरहरूमा आधारित हुन्छन्।",
+    "CODE.TEST.03": "(광고) हानपास प्रयोगकर्ताहरूका लागि मात्र विशेष लाभ!\n\nतपाईंसँग अन्तर्राष्ट्रिय मुद्रा स्थानान्तरणको लागि नि: शुल्क कुपन छ! म्याद समाप्ति मितिको अन्त्य हुनु अघि नि:शुल्क लाभ प्राप्त गर्न निश्चित गर्नुहोस्!   *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "FI",
+    "CODE.TEST.01": "1. Foreign Exchange Selling Rate: The designated bank's initial announced foreign exchange selling rate on the submission date applies, effective from 9:20 AM Korean time after the initial announcement. (Note: Due to system application time, a time difference of approximately +5 to 10 minutes may occur.)",
+    "CODE.TEST.02": "For instance, transactions settled before 9:20 AM on November 23rd will use the exchange rate announced on November 22nd, while transactions settled after 9:20 AM on November 23rd will use the exchange rate announced on November 23rd. Weekend rates are based on the last business day's announced exchange rates.",
+    "CODE.TEST.03": "(Ads) Special benefit for only Hanpass Users! \n\nYou have a FREE COUPON for international money transfer! Make sure to receive the benefit for free before the end of the expiration date! \n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "IN",
+    "CODE.TEST.01": "1. Nilai Jual Valuta Asing: Nilai jual valuta asing awal yang diumumkan oleh bank yang ditunjuk pada tanggal pengajuan berlaku, efektif mulai pukul 09:20 pagi waktu Korea setelah pengumuman awal. (Catatan: Karena perbedaan waktu aplikasi sistem, perbedaan waktu sekitar +5 hingga 10 menit mungkin terjadi.)",
+    "CODE.TEST.02": "Sebagai contoh, transaksi yang diselesaikan sebelum pukul 09:20 pagi pada tanggal 23 November akan menggunakan nilai tukar yang diumumkan pada tanggal 22 November, sedangkan transaksi yang diselesaikan setelah pukul 09:20 pagi pada tanggal 23 November akan menggunakan nilai tukar yang diumumkan pada tanggal 23 November. Tarif akhir pekan didasarkan pada nilai tukar yang diumumkan pada hari kerja terakhir.",
+    "CODE.TEST.03": "(Iklan) Keuntungan khusus hanya untuk Pengguna Hanpass!\n\nAnda memiliki KUPON GRATIS untuk transfer uang internasional! Pastikan untuk mendapatkan manfaat gratis sebelum tanggal kedaluwarsa berakhir!\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "VI",
+    "CODE.TEST.01": "1. Tỷ lệ chuyển đổi tiền tệ: Đây là tỷ lệ chuyển đổi tiền tệ được thông báo lần đầu bởi ngân hàng chỉ định vào ngày tiếp nhận giao dịch, và áp dụng từ sau 09:20 sáng theo giờ Hàn Quốc sau thông báo lần đầu (*có thể phát sinh khoảng 5~10 phút chênh lệch thời gian áp dụng hệ thống).",
+    "CODE.TEST.02": "Ví dụ: Thanh toán trước 9:20 sáng ngày 23/11 sẽ áp dụng tỷ giá hối đoái thông báo ngày 22/11 và thanh toán sau 9:20 sáng sẽ áp dụng tỷ giá hối đoái ngày 23/11. Cuối tuần được áp dụng với tỷ giá hối đoái thông báo theo tiêu chuẩn ngày làm việc trước đó.",
+    "CODE.TEST.03": "(광고) Ưu đãi chỉ có tại Hanpass!\n\nBạn đang có phiếu Miễn Phí gửi!\nDùng ngay trước khi hết hạn!\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "BN",
+    "CODE.TEST.01": "1. বৈদেশিক মুদ্রা বিনিময় হার: বৈদেশিক মুদ্রা বিনিময় হার নির্ধারিত ব্যাংকের  প্রাথমিক ঘোষণার তারিখে প্রযোজ্য, প্রাথমিক ঘোষণার পর কোরিয়ান সময় সকাল ৯ঃ২০ থেকে কার্যকর। (দ্রষ্টব্য: সিস্টেম অ্যাপ্লিকেশন সময়ের কারণে, সময় প্রায় ৫ থেকে ১০ মিনিটের মধ্যে পরিবর্তিত হতে পারে।)",
+    "CODE.TEST.02": "উদাহরণ) 11/23 তারিখে 9:20 AM এর আগে করা অর্থপ্রদানের জন্য, 11/22 তারিখে ঘোষিত বিনিময় হার প্রয়োগ করা হবে এবং 9:20 AM এর পরে করা অর্থপ্রদানের জন্য, 11/23 তারিখে ঘোষিত বিনিময় হার প্রয়োগ করা হবে৷ সপ্তাহান্তে, পূর্ববর্তী ব্যবসায়িক দিনের উপর ভিত্তি করে প্রকাশিত বিনিময় হার প্রয়োগ করা হয়।",
+    "CODE.TEST.03": "\"\"\"(বিজ্ঞাপন) শুধুমাত্র হ্যানপাস সদস্যদের জন্য বিশেষ সুবিধা!\n\n বিদেশী রেমিট্যান্স পাঠানোর জন্য  আপনার একটি   ফ্রী  কুপন আছে ! মেয়াদ শেষ হওয়ার পূর্বে  ফ্রী কুপন ব্যবহার করতে  ভুলবেন না!\n\n  *আনসাবস্ক্রাইব করুন: সেটিংস > বিজ্ঞপ্তি > অ্যাপ পুশ\"\"   \""
+  },
+  {
+    "NATION": "ZH",
+    "CODE.TEST.01": "1. 电汇卖价：在提交日期内，指定银行所公布的初始外汇卖出价生效，自初次公布之后的韩国时间上午9点20分起生效。（注：由于系统应用时间，可能会出现约+5到+10分钟的时间差异。）\n\n\n\n\n",
+    "CODE.TEST.02": "例如，11月23日上午9点20分之前结算的交易将使用11月22日公布的汇率，而11月23日上午9点20分之后结算的交易将使用11月23日公布的汇率。周末汇率基于上一个工作日公布的汇率。",
+    "CODE.TEST.03": "(광고) 只为hanpass会员而准备的优惠！\n\n跨境汇款免手续费优惠券来啦！活动结束之前赶紧来领取吧!\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "UZ",
+    "CODE.TEST.01": "1. Valyuta sotish kursi: Belgilangan bankning taqdim etilgan sanadagi dastlabki e'lon qilingan valyuta sotish kursi qo'llaniladi, bu dastlabki e'londan keyin Koreya vaqti bilan 9:20 dan boshlab kuchga kiradi. (Eslatma: Tizimni qo'llash vaqti tufayli, vaqt farqi taxminan +5 dan 10 minutgacha bo'lishi mumkin.)",
+    "CODE.TEST.02": "Masalan, 23-noyabr kuni ertalab soat 9:20 ga qadar hisob-kitoblar amalga oshirilganda 22-noyabr kuni eʼlon qilingan valyuta kursi, 23-noyabr kuni soat 9:20 dan keyin tuzilgan bitimlar uchun esa 23-noyabr kuni eʼlon qilingan valyuta kursi amal qiladi. Dam olish kunlaridagi kurslar oxirgi ish kuni e'lon qilingan valyuta kurslariga asoslanadi.",
+    "CODE.TEST.03": "(Reklama) Faqat Hanpass foydalanuvchilari uchun maxsus taklif!\n\nSizda Xalqaro pul o'tkazmalar uchun BEPUL KUPON bor! Muddati tugashidan oldin uni ishlatishingizga ishonch hosil qiling!  \n\n*수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "RU",
+    "CODE.TEST.01": "1. Курс продажи иностранной валюты: применяется первоначальный объявленный назначенным банком курс продажи иностранной валюты на дату подачи, вступающий в силу с 9:20 утра по корейскому времени после первоначального объявления. \n(Примечание: из-за времени работы системы может возникнуть разница во времени примерно от +5 до 10 минут.)",
+    "CODE.TEST.02": "Например, для транзакций, совершенных до 9:20 23 ноября, будет использоваться обменный курс, объявленный 22 ноября, а для транзакций, совершенных после 9:20 23 ноября, будет использоваться обменный курс, объявленный 23 ноября. Курсы выходного дня основаны на объявленных обменных курсах на последний рабочий день.",
+    "CODE.TEST.03": "(Реклама) Специальное предложение только для пользователей Hanpass!        \n\nУ вас есть БЕСПЛАТНЫЙ КУПОН на международный денежный перевод! Обязательно используйте его до истечения срока действия!                *수신거부 : 설정 > 알림 > 앱푸시\""
+  },
+  {
+    "NATION": "SL",
+    "CODE.TEST.01": "1. විදේශ විනිමය විකුණුම් අනුපාතිකය: නම් කරන ලද බැංකුවේ මූලික නිවේදනය කරන ලද විදේශ විනිමය විකුණුම් අනුපාතිකය ඉදිරිපත් කරන දිනට අදාළ වන අතර, ආරම්භක නිවේදනයෙන් පසුව කොරියානු වේලාවෙන් පෙ.ව. 9:20 සිට ක්‍රියාත්මක වේ. (සටහන: පද්ධති යෙදුම් කාලය හේතුවෙන්, ආසන්න වශයෙන් විනාඩි +5 සිට 10 දක්වා කාල වෙනසක් සිදු විය හැක.)\n",
+    "CODE.TEST.02": "උදාහරණයක් ලෙස, නොවැම්බර් 23 වැනි දින පෙරවරු 9:20 ට පෙර පියවූ ගනුදෙනු නොවැම්බර් 22 වැනිදා ප්‍රකාශයට පත් කළ විනිමය අනුපාතිකය භාවිත කරන අතර නොවැම්බර් 23 වැනි දින පෙ.ව. 9:20 ට පසුව පියවූ ගනුදෙනු නොවැම්බර් 23 වැනිදා ප්‍රකාශයට පත් කළ විනිමය අනුපාතිකය භාවිත කරයි. සති අන්ත අනුපාත පදනම් වන්නේ පසුගිය ව්‍යාපාරික දිනයේ ප්‍රකාශයට පත් කළ විනිමය අනුපාත මතය.",
+    "CODE.TEST.03": "(광고) Hanpass භාවිතා කරන්නන්ට පමණක් විශේෂ ප්‍රතිලාභයක්!\n\nනොමිලේ ලංකාවට මුදල් යවන්න කුපන්පතක් ලැබී ඇත! \nකල් ඉකුත් වීමට පෙර, ප්‍රතිලාභය නොමිලේ ලබා ගන්න.\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "TH",
+    "CODE.TEST.01": "1. อัตราแลกเปลี่ยนเงินตราต่างประเทศ: อัตราแลกเปลี่ยนเงินตราต่างประเทศนั้น จะประกาศครั้งแรก จากธนาคารที่กำหนด โดยมีผลตั้งแต่ 9:20 น. เวลาเกาหลีเป็นต้นไป (หมายเหตุ: เนื่องจากเวลายื่นทำรายการของระบบ มีความต่างของเวลาเกิดขึ้นได้ อาจเกิดความล่าช้า ประมาณ 5 ถึง 10 นาที)",
+    "CODE.TEST.02": "ตัวอย่างเช่น ธุรกรรมที่ชำระก่อนเวลา 9.20 น. ของวันที่ 23 พฤศจิกายน จะใช้อัตราแลกเปลี่ยนที่ประกาศในวันที่ 22 พฤศจิกายน ในขณะที่ธุรกรรมที่ชำระหลังเวลา 9.20 น. ของวันที่ 23 พฤศจิกายน จะใช้อัตราแลกเปลี่ยนที่ประกาศเมื่อวันที่ 23 พฤศจิกายน อัตราวันหยุดสุดสัปดาห์จะขึ้นอยู่กับอัตราแลกเปลี่ยนที่ประกาศในวันทำการสุดท้าย",
+    "CODE.TEST.03": "(광고) สิทธิพิเศษ สำหรับลูกค้าฮันพาสเท่านั้น! \nลูกค้าได้รับคูปองโอนเงินไปไทยฟรีค่าธรรมเนียม \nก่อนคูปองหมดอายุอย่าลืมไปใช้คูปองกันนะ!!\n*수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "MM",
+    "CODE.TEST.01": "\n1. နိုင်ငံခြားငွေလဲလှယ် နှုန်းထား : နိုင်ငံခြားငွေလဲလှယ်နှုန်းထားသည် ကိုးရီးယားအချိန် နံနက်၉နာရီ၂၀မိနစ် ဘဏ်၏ ငွေလဲလှယ်နှုန်းထားသတ်မှတ်ခြင်းပေါ် မူတည်ပါသည်။(မှတ်ချက်- ဘဏ်၏ ငွေလဲလှယ်နှူန်းထား သတ်မှတ်သည့်အချိန်သည်  ၅မိနစ်မှ ၁၀မိနစ်အတွင်း အချိန်ကွာခြားမှုရှိနိုင်ပါသည်။)\n",
+    "CODE.TEST.02": "ဥပမာအားဖြင့် ယနေ့ နိုဝင်ဘာလ ၂၃ရက် နံနက် ၉နာရီ၂၀မိနစ်အချိန်မတိုင်မှီ ငွေလဲလှယ်နှုန်းထားသည် ယမန်နေ့ နိုဝင်ဘာလ ၂၂ရက်နေ့ နံနက် ၉နာရီ၂၀မိနစ်အချိန်က သတ်မှတ်သည့် ငွေလဲလှယ်နှူန်းထားဖြစ်ပြီး ယနေ့ နိုဝင်ဘာလ ၂၃ရက် နံနက် ၉နာရီ၂၀မိနစ်အချိန် သတ်မှတ်သည့် ငွေလဲလှယ်နှုန်းထားကိုတော့ ယနေ့တရက်လုံး ငွေလဲလှယ်နှုန်းထားအဖြစ်သတ်မှတ်သွားမည်ဖြစ်ပါသည်။",
+    "CODE.TEST.03": "(광고) ဟန်းပက်စ်ချစ်သူများအတွက် အကျိုးခံစားခွင့်!\n\nပြည်ပငွေလွှဲဝန်ဆောင်ခအခမဲ့ကူပွန် ရှိနေပါတယ်!\nကူပွန်သက်တမ်းမကုန်ခင် အမြန်ဆုံး အသုံးပြုပေးပါနော်!\n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "PK",
+    "CODE.TEST.01": "\n\"فارن ایکسچینج سیلنگ ریٹ: مخصوص بینک کی طرف سے مقررہ کردہ بین الاقوامی مبادلہ سیلنگ ریٹ، جمع کرنے کے تاریخ پر لاگو ہوتی ہے، ابتدائی اعلان کے بعد کوریائی وقت کے 9:20 صبح سے لاگو ہوتی ہے۔ (نوٹ: سسٹم کے لاگو ہونے کے وقت کا تفرق تقریباً +5 سے 10 منٹ کا ہو سکتا ہے۔)\"\n",
+    "CODE.TEST.02": "مثال کے طور پر، 23 نومبر کو صبح 9:20 بجے سے پہلے ہونے والے لین دین کی صورت میں، 22 نومبر کو اعلان کردہ ایکسچینج ریٹ کا استعمال ہوگا، جبکہ 23 نومبر کو صبح 9:20 بجے کے بعد ہونے والے لین دین کی صورت میں، 23 نومبر کو اعلان کردہ ایکسچینج ریٹ کا استعمال ہوگا۔ ہفتے کے دنوں کی ریٹس آخری کاروباری دن کے اعلان کردہ ایکسچینج ریٹس پر مبنی ہوتی ہیں",
+    "CODE.TEST.03": "(اشتہارات) صرف ہان پاس صارفین کے لیے خصوصی فائدہ!\n\nآپ کے پاس بین الاقوامی رقم کی منتقلی کے لیے ایک مفت کوپن ہے! میعاد ختم ہونے کی تاریخ ختم ہونے سے پہلے مفت فائدہ حاصل کرنا یقینی بنائیں!\n\n *수신거부 : 설정 > 알림 > 앱푸시\""
+  },
+  {
+    "NATION": "MN",
+    "CODE.TEST.01": "1. Гадаад валют арилжааны ханш: Тухайн өдөр банкны эхний зарласан арилжааны ханшаар бодогдох бөгөөд Солонгос цагаар өглөөний 9:20 цагаас эхлэн бодогдоно. (Анхаар: Системийн тооцоолох хугацаанаас үүдэн +5~10минутын ялгаа гарах магадлалтай.)",
+    "CODE.TEST.02": "Жишээлбэл, 11 сарын 23ны өглөө 9:20 цагт хийсэн гүйлгээ 11 сарын 22нд зарлагдсан ханшаар бодогдох бөгөөд, 9:20 цагаас хойших гүйлгээ нь 11 сарын 23нд зарлагдсан ханшаар тооцоологдох болно. Амралтын өдрийн ханш өмнөх ажлын өдөр зарлагдсан ханшаар бодогдоно.",
+    "CODE.TEST.03": "(광고) Зөвхөн Ханпасс хэрэглэгчдэд онцгой боломж!\n\nТанд Монгол руу үнэгүй гүйлгээ хийх купон байна. Та купоны хүчинтэй хугацаа дуусахаас өмнө ашиглаарай! \n\n *수신거부 : 설정 > 알림 > 앱푸시"
+  },
+  {
+    "NATION": "JA",
+    "CODE.TEST.01": "1. 電信為替売渡率:受付日の指定銀行最初の告示電信為替売渡率であり、最初の告示以後、韓国時間基準で午前9時20分以降から適用(*システム適用時間差で約+5~10分差発生可能)",
+    "CODE.TEST.02": "例) 11/23日午前9時20分以前のお支払いは11/22日の告示為替レートで、午前9時20分以降のお支払いの件から11/23日の告示為替レートで適用されます。 週末は前営業日基準の告示為替レートで適用されます。",
+    "CODE.TEST.03": ""
+  }
+]

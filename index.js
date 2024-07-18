@@ -17,7 +17,7 @@ function excelToJson(excelFilePath, jsonFilePath) {
 }
 
 // 사용 예제
-const excelFilePath = 'input/test.xlsx';  // 변환할 Excel 파일 경로
-const jsonFilePath = 'output/test.json';  // 저장할 JSON 파일 경로
+const excelFilePath = 'input/global-sample.xlsx';  // 변환할 Excel 파일 경로
+const jsonFilePath = 'output/global-sample.json';  // 저장할 JSON 파일 경로
 
 excelToJson(excelFilePath, jsonFilePath);
